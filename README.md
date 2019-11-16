@@ -1,2 +1,2 @@
 # FlavorTextGenerator
-The simplest application that generates flavor texts writter on Magic: The Gathering cards
+The simplest application that generates flavor texts written on Magic: The Gathering cards
